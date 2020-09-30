@@ -1,2 +1,2 @@
-FROM quay.io/coreos/flannel:v0.10.0-arm
+FROM quay.io/coreos/flannel:v0.10.0-ppc64le
 MAINTAINER bruce.zhu <zhugp1987@126.com>
